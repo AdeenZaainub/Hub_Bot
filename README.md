@@ -50,8 +50,8 @@ Replace the placeholders with your actual API keys and email credentials.
 ## Command to run the code 
 python orchestrator_agent.py
 ## Example Quries
-i want to create a deal with amount 600 and name bicycle
+i want to create a deal with amount 200 and name shampoo
 
-i want to create contact named as sara zafar  with email as sarazafar@gmail.com
+i want to create contact named as sara Don  with email as saradon@gmail.com
 
 
